@@ -1,4 +1,4 @@
-# CalmYourChaos
+# Mind Heaven
 
 
 ## Inspiration
