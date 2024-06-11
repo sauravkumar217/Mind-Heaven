@@ -17,6 +17,10 @@ body{
 }
 
 
+#contact{
+    position:relative;
+    left:150px;
+}
 
 
 
@@ -416,10 +420,6 @@ body{
    width: 100%;
    margin-left: 0;
  }
-}
-#contact{
-    position:"relative";
-    left:150px;
 }
 
 
