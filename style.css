@@ -417,6 +417,10 @@ body{
    margin-left: 0;
  }
 }
+#contact{
+    position:"relative";
+    left:150px;
+}
 
 
 
